@@ -1,1 +1,1 @@
-# fitness-page-template
+# fitness-template-page
